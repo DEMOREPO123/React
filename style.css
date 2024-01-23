@@ -1,0 +1,9 @@
+.one #colors {
+  background: -webkit-linear-gradient(rgb(240, 183, 193), rgb(2, 2, 255));
+  background-clip: text;
+  font-size: 300px;
+  font-weight: bold;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 4px transparent;
+  color: #fff;
+}
